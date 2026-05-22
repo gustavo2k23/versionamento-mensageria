@@ -161,3 +161,9 @@ Professor & Desenvolvedor
 ---
 
 > 💬 *"Versionar não é só salvar código, é contar a história do seu projeto."* 🚀
+
+---
+
+## contribuidor
+
+ aluno- gustavo dos santo
